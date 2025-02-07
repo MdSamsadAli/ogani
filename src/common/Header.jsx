@@ -93,7 +93,7 @@ const Header = () => {
                 </div>
                 <div>
                   <img
-                    src="/assets/images/banner.jpg.webp"
+                    src={"/assets/images/banner.jpg.webp"}
                     alt="banner-img"
                     className="w-full"
                   />
