@@ -1,5 +1,5 @@
 import Slider from "react-slick";
-import { trendData } from "../../public/assets/data";
+import { trendData } from "../assets/data";
 import Title from "../common/Title";
 import { MdNavigateBefore, MdNavigateNext } from "react-icons/md";
 

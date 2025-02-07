@@ -1,5 +1,5 @@
 import Banner from "../common/Banner";
-import { Cat } from "../../public/assets/data";
+import { Cat } from "../assets/data";
 import { Link } from "react-router-dom";
 import Trending from "../components/Trending";
 import Slider from "rc-slider";

@@ -1,5 +1,5 @@
 import Title from "../common/Title";
-import { blogs } from "../../public/assets/data";
+import { blogs } from "../assets/data";
 import { FaRegComment } from "react-icons/fa";
 import { IoIosCalendar } from "react-icons/io";
 

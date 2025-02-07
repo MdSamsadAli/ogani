@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoChevronDown, IoChevronUp } from "react-icons/io5";
 import { Link, useLocation } from "react-router-dom";
-import { Cat } from "../../public/assets/data";
+import { Cat } from "../assets/data";
 
 const Header = () => {
   const location = useLocation();
@@ -93,7 +93,7 @@ const Header = () => {
                 </div>
                 <div>
                   <img
-                    src="http://localhost:5173/src/assets/images/banner.jpg.webp"
+                    src="/assets/images/banner.jpg.webp"
                     alt="banner-img"
                     className="w-full"
                   />
