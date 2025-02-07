@@ -101,7 +101,7 @@
 }
 
 .bg-cover {
-  background-image: url("./assets/images/breadcrumb.jpg");
+  background-image: url("../assets/images/breadcrumb.jpg");
 }
 .rc-slider-track,
 .rc-slider-tracks {
