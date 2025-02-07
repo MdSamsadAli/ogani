@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { IoChevronDown, IoChevronUp } from "react-icons/io5";
 import { Link, useLocation } from "react-router-dom";
-import { Cat } from "../assets/data";
+import { Cat } from "../../public/assets/data";
 
 const Header = () => {
   const location = useLocation();

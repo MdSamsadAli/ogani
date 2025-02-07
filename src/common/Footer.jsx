@@ -1,7 +1,7 @@
 import { GrLinkNext } from "react-icons/gr";
 import { FaFacebook, FaInstagram, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { Link } from "react-router-dom";
-import { navbar } from "../assets/data";
+import { navbar } from "../../public/assets/data";
 
 const Footer = () => {
   return (

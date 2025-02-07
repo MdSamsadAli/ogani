@@ -1,9 +1,9 @@
 import { RxHamburgerMenu } from "react-icons/rx";
-import logo from "../assets/images/logo.png.webp";
+import logo from "../../public/assets/images/logo.png.webp";
 import { FaHeart, FaSearch } from "react-icons/fa";
 import { Link } from "react-router-dom";
 import { IoChevronDown } from "react-icons/io5";
-import { navbar } from "../assets/data";
+import { navbar } from "../../public/assets/data";
 import { GiShoppingBag } from "react-icons/gi";
 import { useSelector } from "react-redux";
 import { useState } from "react";

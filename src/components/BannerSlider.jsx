@@ -1,5 +1,5 @@
 import Slider from "react-slick";
-import { Cat } from "../assets/data";
+import { Cat } from "../../public/assets/data";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { MdNavigateBefore, MdNavigateNext } from "react-icons/md";

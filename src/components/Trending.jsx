@@ -1,7 +1,7 @@
 import { Link, useLocation } from "react-router-dom";
 import Title from "../common/Title";
 import { useEffect, useState } from "react";
-import { trendData } from "../assets/data";
+import { trendData } from "../../public/assets/data";
 import { FaHeart, FaShoppingCart } from "react-icons/fa";
 import { IoGitCompareSharp } from "react-icons/io5";
 import { useDispatch } from "react-redux";
