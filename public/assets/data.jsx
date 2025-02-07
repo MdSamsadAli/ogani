@@ -62,37 +62,37 @@ export const navbar = [
 
 export const Cat = [
   {
-    img: "/src/assets/images/cat-1.jpg.webp",
+    img: "/assets/images/cat-1.jpg.webp",
     title: "Vegetables",
   },
 
   {
-    img: "./src/assets/images/cat-2.jpg.webp",
+    img: "./assets/images/cat-2.jpg.webp",
     title: "Fruits & Nut Gifts",
   },
 
   {
-    img: "./src/assets/images/cat-3.jpg.webp",
+    img: "./assets/images/cat-3.jpg.webp",
     title: "Fresh Berries",
   },
 
   {
-    img: "./src/assets/images/cat-4.jpg.webp",
+    img: "./assets/images/cat-4.jpg.webp",
     title: "Ocean Foods",
   },
 
   {
-    img: "./src/assets/images/cat-5.jpg.webp",
+    img: "./assets/images/cat-5.jpg.webp",
     title: "Butter & Eggs",
   },
 
   {
-    img: "./src/assets/images/cat-4.jpg.webp",
+    img: "./assets/images/cat-4.jpg.webp",
     title: "Fastfood",
   },
 
   {
-    img: "./src/assets/images/cat-5.jpg.webp",
+    img: "./assets/images/cat-5.jpg.webp",
     title: "Fresh Onion",
   },
 ];
@@ -101,7 +101,7 @@ export const trendData = [
   {
     id: 1,
     price: 10,
-    img: "/src/assets/images/cat-1.jpg.webp",
+    img: "/assets/images/cat-1.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -114,7 +114,7 @@ export const trendData = [
   {
     id: 2,
     price: 10,
-    img: "./src/assets/images/cat-2.jpg.webp",
+    img: "./assets/images/cat-2.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -127,7 +127,7 @@ export const trendData = [
   {
     id: 3,
     price: 10,
-    img: "./src/assets/images/cat-3.jpg.webp",
+    img: "./assets/images/cat-3.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -140,7 +140,7 @@ export const trendData = [
   {
     id: 4,
     price: 20,
-    img: "/src/assets/images/cat-4.jpg.webp",
+    img: "/assets/images/cat-4.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -153,7 +153,7 @@ export const trendData = [
   {
     id: 5,
     price: 40,
-    img: "./src/assets/images/cat-5.jpg.webp",
+    img: "./assets/images/cat-5.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -166,7 +166,7 @@ export const trendData = [
   {
     id: 6,
     price: 10,
-    img: "./src/assets/images/feature-2.jpg.webp",
+    img: "./assets/images/feature-2.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -179,7 +179,7 @@ export const trendData = [
   {
     id: 7,
     price: 10,
-    img: "/src/assets/images/feature-5.jpg.webp",
+    img: "/assets/images/feature-5.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -192,7 +192,7 @@ export const trendData = [
   {
     id: 8,
     price: 10,
-    img: "./src/assets/images/feature-6.jpg.webp",
+    img: "./assets/images/feature-6.jpg.webp",
     btn: "Fashions",
     title: "Drink fruits",
     date: "2 days ago",
@@ -205,34 +205,34 @@ export const trendData = [
 
 export const flickrfeed = [
   {
-    img: "./src/assets/images/img-thumb-1.webp",
+    img: "./assets/images/img-thumb-1.webp",
   },
   {
-    img: "./src/assets/images/img-thumb-2.webp",
+    img: "./assets/images/img-thumb-2.webp",
   },
   {
-    img: "./src/assets/images/img-thumb-3.webp",
+    img: "./assets/images/img-thumb-3.webp",
   },
   {
-    img: "./src/assets/images/img-thumb-4.webp",
+    img: "./assets/images/img-thumb-4.webp",
   },
   {
-    img: "./src/assets/images/img-widget-5.webp",
+    img: "./assets/images/img-widget-5.webp",
   },
   {
-    img: "./src/assets/images/img-4.webp",
+    img: "./assets/images/img-4.webp",
   },
   {
-    img: "./src/assets/images/img-5.webp",
+    img: "./assets/images/img-5.webp",
   },
   {
-    img: "./src/assets/images/img-lg-1.webp",
+    img: "./assets/images/img-lg-1.webp",
   },
 ];
 
 export const blogs = [
   {
-    img: "/src/assets/images/blog-1.jpg.webp",
+    img: "/assets/images/blog-1.jpg.webp",
     btn: "Fashions",
     title: "Cooking tips make cooking simple",
     date: "May 4,2019",
@@ -243,7 +243,7 @@ export const blogs = [
   },
 
   {
-    img: "./src/assets/images/blog-2.jpg.webp",
+    img: "./assets/images/blog-2.jpg.webp",
     btn: "Fashions",
     title: "6 ways to prepare breakfast for 30",
     date: "May 4,2019",
@@ -254,7 +254,7 @@ export const blogs = [
   },
 
   {
-    img: "./src/assets/images/blog-3.jpg.webp",
+    img: "./assets/images/blog-3.jpg.webp",
     btn: "Fashions",
     title: "Visit the clean farm in the US",
     date: "May 4,2019",
